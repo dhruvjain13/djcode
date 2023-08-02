@@ -1,0 +1,16 @@
+.xyz{ 
+    color: rgb(0, 13, 255)!important
+                       (it will take priority as important is their !)
+       
+  }
+ 
+  .abc {
+   font-size: 10px;
+   color: #ff0000;
+  }
+ #myid{
+   color: gold;
+   font-size: 30px;
+   background-color: chocolate ;
+ }
+ 
